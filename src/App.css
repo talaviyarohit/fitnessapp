@@ -1,0 +1,58 @@
+/* src/App.css */
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar {
+  padding: 10px 0;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1rem;
+  padding: 10px 15px;
+}
+
+.nav-link:hover {
+  color: #00bfff;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+
+/* src/App.css */
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.mt-4 {
+  margin-top: 20px;
+}
+
+.container {
+  margin-top: 40px;
+}
+
+.ListGroup-item {
+  font-size: 1.1rem;
+}
+.nav-con{
+  display: contents;
+  justify-content: space-evenly;
+}

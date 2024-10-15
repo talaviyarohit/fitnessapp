@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(240, 207, 76) !important;
+}
+.dashboard {
+    padding: 20px;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  button {
+    margin-top: 20px;
+  }
+  .line-chart{
+    width: 100% !important;
+    height: 600px !important;
+
+  }
+  .pie-chart{
+    width: 1000px !important;
+    height: 1000px !important;
+   
+  }
+  .nav-con{
+    display: contents;
+    justify-content: space-evenly !important;
+  }
+  .bg-recent{
+    background-color: beige !important;
+  }
+  .custom-input {
+    background-color: #f8d7da !important;  /* Change to your desired color */
+    border: 1px solid #dc3545; /* Optional: change the border color */
+    color: #721c24; /* Optional: change the text color */
+  }
